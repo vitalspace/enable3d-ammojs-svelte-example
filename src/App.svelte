@@ -72,3 +72,5 @@ PhysicsLoader(
   () => new Project({ scenes: [MainScene], antialias: true })
 );
 </script>
+
+<div id="info-text">Enable3d Ammojs Vite Example.<br />Works on mobile and desktop.</div>
