@@ -73,4 +73,4 @@ PhysicsLoader(
 );
 </script>
 
-<div id="info-text">Enable3d Ammojs Vite Example.<br />Works on mobile and desktop.</div>
+<div id="info-text">Enable3d Ammojs Svelte Example.<br />Works on mobile and desktop.</div>
