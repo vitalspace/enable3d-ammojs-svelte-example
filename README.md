@@ -10,7 +10,7 @@ Enable3d Ammojs Svelte Example
 git clone https://github.com/vitalspace/enable3d-ammojs-svelte-example.git
 
 # navigate into the directory
-cd enable3d-ammojs-vite-example
+cd enable3d-ammojs-svelte-example
 
 # install
 npm install
